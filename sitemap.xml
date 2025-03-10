@@ -47,24 +47,6 @@
   </url>
   
   <url>
-    <loc>https://blog.682000.xyz/site/census/index.html</loc>
-    
-    <lastmod>2023-03-22</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://blog.682000.xyz/site/time/index.html</loc>
-    
-    <lastmod>2023-03-22</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://blog.682000.xyz/life/games/index.html</loc>
     
     <lastmod>2023-03-22</lastmod>
@@ -83,7 +65,25 @@
   </url>
   
   <url>
+    <loc>https://blog.682000.xyz/site/census/index.html</loc>
+    
+    <lastmod>2023-03-22</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://blog.682000.xyz/life/music/index.html</loc>
+    
+    <lastmod>2023-03-22</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://blog.682000.xyz/site/time/index.html</loc>
     
     <lastmod>2023-03-22</lastmod>
     
