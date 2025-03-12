@@ -5222,7 +5222,7 @@ mjx-container[display],
   border-radius: 5px !important;
 }
 [data-theme="dark"] #web_bg {
-  background: var(--darkmode-bg);
+  background: url(https://tu.682000.xyz/pic_bk_mn/20250309230031378.png);
   background-attachment: local;
   background-position: center;
   background-size: cover;
@@ -5230,7 +5230,7 @@ mjx-container[display],
 }
 @media screen and (max-width: 800px) {
   #web_bg {
-    background: var(--mobileday-bg);
+    background: url(https://tu.682000.xyz/pic_bk_mn/20250309230031378.png);
     background-attachment: local !important;
     background-position: center !important;
     background-size: cover !important;

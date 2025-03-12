@@ -56,7 +56,7 @@
   </url>
   
   <url>
-    <loc>https://blog.682000.xyz/box/animation/index.html</loc>
+    <loc>https://blog.682000.xyz/box/nav/index.html</loc>
     
     <lastmod>2023-03-22</lastmod>
     
@@ -65,7 +65,7 @@
   </url>
   
   <url>
-    <loc>https://blog.682000.xyz/box/nav/index.html</loc>
+    <loc>https://blog.682000.xyz/box/animation/index.html</loc>
     
     <lastmod>2023-03-22</lastmod>
     
@@ -83,25 +83,7 @@
   </url>
   
   <url>
-    <loc>https://blog.682000.xyz/life/movies/index.html</loc>
-    
-    <lastmod>2023-03-22</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://blog.682000.xyz/life/games/index.html</loc>
-    
-    <lastmod>2023-03-22</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://blog.682000.xyz/personal/about/index.html</loc>
     
     <lastmod>2023-03-22</lastmod>
     
@@ -119,7 +101,16 @@
   </url>
   
   <url>
-    <loc>https://blog.682000.xyz/personal/bb/index.html</loc>
+    <loc>https://blog.682000.xyz/life/movies/index.html</loc>
+    
+    <lastmod>2023-03-22</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://blog.682000.xyz/personal/about/index.html</loc>
     
     <lastmod>2023-03-22</lastmod>
     
@@ -129,6 +120,33 @@
   
   <url>
     <loc>https://blog.682000.xyz/personal/love/index.html</loc>
+    
+    <lastmod>2023-03-22</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://blog.682000.xyz/social/fcircle/index.html</loc>
+    
+    <lastmod>2023-03-22</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://blog.682000.xyz/personal/bb/index.html</loc>
+    
+    <lastmod>2023-03-22</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://blog.682000.xyz/social/link/index.html</loc>
     
     <lastmod>2023-03-22</lastmod>
     
@@ -147,24 +165,6 @@
   
   <url>
     <loc>https://blog.682000.xyz/site/time/index.html</loc>
-    
-    <lastmod>2023-03-22</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://blog.682000.xyz/social/link/index.html</loc>
-    
-    <lastmod>2023-03-22</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://blog.682000.xyz/social/fcircle/index.html</loc>
     
     <lastmod>2023-03-22</lastmod>
     
@@ -200,20 +200,6 @@
 
   
   <url>
-    <loc>https://blog.682000.xyz/tags/butterfly/</loc>
-    <lastmod>2025-03-12</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://blog.682000.xyz/tags/Hexo/</loc>
-    <lastmod>2025-03-12</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>https://blog.682000.xyz/tags/Markdown/</loc>
     <lastmod>2025-03-12</lastmod>
     <changefreq>weekly</changefreq>
@@ -227,17 +213,31 @@
     <priority>0.2</priority>
   </url>
   
-
-  
   <url>
-    <loc>https://blog.682000.xyz/categories/butterfly/</loc>
+    <loc>https://blog.682000.xyz/tags/Hexo/</loc>
     <lastmod>2025-03-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
+    <loc>https://blog.682000.xyz/tags/butterfly/</loc>
+    <lastmod>2025-03-12</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+
+  
+  <url>
     <loc>https://blog.682000.xyz/categories/%E6%BC%94%E7%A4%BA/</loc>
+    <lastmod>2025-03-12</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://blog.682000.xyz/categories/butterfly/</loc>
     <lastmod>2025-03-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
